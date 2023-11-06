@@ -1,2 +1,2 @@
 # Hello World
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Lizard](https://avatars.githubusercontent.com/u/93456651?v=4)
